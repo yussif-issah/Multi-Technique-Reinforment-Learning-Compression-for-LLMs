@@ -1,6 +1,6 @@
 # Multi Technique RL Compression for LLMs
 
-This repository contains a simple reinforcement-learning setup for generating compression plans across model layers. The implementation includes:
+This repository contains a  reinforcement-learning setup for generating compression plans across model layers. The implementation includes:
 
 - `Environment.py` — layer definitions, action aggressiveness, and PPL (perplexity) hit computation.
 - `CompressionEnvironment.py` — a Gym-compatible wrapper around `Environment`.
